@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/probelalkhan" target="blank"><img src="https://img.shields.io/twitter/follow/probelalkhan?logo=twitter&style=for-the-badge" alt="probelalkhan" /></a> </p>
 
-- 📝 I regularly write articles on [https://belalkhan.dev](https://belalkhan.dev)
+- 📝 I regularly write articles on [https://simplifiedcoding.net](https://simplifiedcoding.net)
 
 - 💬 Ask me about **Android Development**
 
