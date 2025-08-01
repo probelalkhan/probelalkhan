@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **hello@belalkhan.dev**
+- 📫 How to reach me **probelalkhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
